@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @zhuoyuTan
+- 🏫 I’m a senior CS student at University of California San Diego.
 - 👀 I’m interested in FrontEnd/Backend design.
 - 🌱 I’m currently learning HTML/CSS/JS/React/SQL
 - 📫 How to reach me: zhuoyut96@gmail.com
